@@ -47,8 +47,8 @@ source "$HOME/.cargo/env"
 ### 2. Клонирование и установка зависимостей
 
 ```bash
-git clone https://github.com/ReNothingg/P2C-Crypto-Sniper-Bot.git
-cd P2C-Crypto-Sniper-Bot
+git clone https://github.com/zstd-dev/P2C-Cryptobot-Sniper
+cd P2C-Cryptobot-Sniper
 
 python3 -m venv venv
 source venv/bin/activate
